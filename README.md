@@ -39,8 +39,8 @@ python main.py
 - F : Below 35
 
 # Output Files
-students.csv – Stores all student data
-report.csv – Generated student reports
+- students.csv – Stores all student data
+- report.csv – Generated student reports
 
 # Team Members
 - D/MTH/25/0008_PV MADUWAGE
